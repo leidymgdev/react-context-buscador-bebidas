@@ -2,7 +2,7 @@
 
 Proyecto buscador de bebidas de la api https://www.thecocktaildb.com/api.php
 
-### Url productiva: https://pedantic-feynman-51d9e1.netlify.app/
+### Url productiva: https://amazing-curran-84e677.netlify.app/
 
 # Tecnologías Usadas
 
